@@ -1,0 +1,7 @@
+@inproceedings{REPO314,
+    author = "Lv, Hui and Chen, Chen and Cui, Zhen and Xu, Chunyan and Li, Yong and Yang, Jian",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "15425--15434",
+    title = "{Learning Normal Dynamics in Videos with Meta Prototype Network}",
+    year = "2021"
+}
